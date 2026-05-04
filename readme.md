@@ -15,10 +15,5 @@ I am an Artificial Intelligence enthusiast currently focusing on Generative AI a
 
 ---
 
-### 📊 My Activity
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SomeshPadiyar&show_icons=true&theme=transparent&hide_border=true)
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somesh-padiyar-406142214/)
