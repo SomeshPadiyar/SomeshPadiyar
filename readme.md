@@ -16,7 +16,7 @@ I am an Artificial Intelligence enthusiast currently focusing on Generative AI a
 ---
 
 ### 📊 My Activity
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent&hide_border=true)
+![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SomeshPadiyar&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 
